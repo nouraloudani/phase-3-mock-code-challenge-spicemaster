@@ -2,7 +2,7 @@
   "spiceblends": [
     {
       "id": 1,
-      "title": "Pumpkin Spice",
+      "title": "pumpkin",
       "image": "./assets/spices/pumpkinspicelatte.jpg"
     },
     {
@@ -106,6 +106,58 @@
       "name": "Pepper",
       "spiceblendId": 3,
       "id": 17
+    },
+    {
+      "name": "kkk",
+      "id": 18
+    },
+    {
+      "name": "jjjj",
+      "id": 19
+    },
+    {
+      "name": "ddd",
+      "id": 20
+    },
+    {
+      "name": "lll",
+      "id": 21
+    },
+    {
+      "name": "lll",
+      "id": 22
+    },
+    {
+      "name": "lll",
+      "id": 23
+    },
+    {
+      "name": "sss",
+      "id": 24
+    },
+    {
+      "name": "ddd",
+      "id": 25
+    },
+    {
+      "name": "sds",
+      "spiceblendId": "1",
+      "id": 26
+    },
+    {
+      "name": "sdsdfsf",
+      "spiceblendId": 1,
+      "id": 27
+    },
+    {
+      "name": "loli",
+      "spiceblendId": 1,
+      "id": 28
+    },
+    {
+      "name": "lolii",
+      "spiceblendId": 1,
+      "id": 29
     }
   ]
 }
